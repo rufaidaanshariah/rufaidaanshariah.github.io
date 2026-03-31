@@ -1,5 +1,5 @@
 body {
-    background-color: #f5f5f5;
+    background-color: #FBD9D9;
     background-image: url('images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -13,19 +13,19 @@ body {
 
 
 a {
-    color: #0073e6; 
+    color: #ffc2d1; 
     text-decoration: none;
 }
 
 
 a:hover {
-    color: #005bb5;
+    color: #38040e;
     text-decoration: underline;
 }
 
 
 h1 {
-    color: #111111; 
+    color: #38040e; 
     font-size: 36px;
     margin: 24px 0 8px;
 }
