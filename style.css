@@ -38,6 +38,8 @@ h2 {
 .container {
     max-width: 250px;  /* Limit the width of the container */
     margin: 0 auto;     /* Center the container horizontally */ 
+    margin-left: 0;
+    margin-right: auto;
     padding: 0 20px; /* Optional: add side padding for mobile screens */
     background-color: #ffffff
     text-align: left;
