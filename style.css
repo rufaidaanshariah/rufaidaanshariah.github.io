@@ -35,7 +35,7 @@ h2 {
     margin: 16px 0 8px;
 }
 
-.container {
+:container {
     max-width: 1200px;  /* Limit the width of the container */
     margin: 0 auto;     /* Center the container horizontally */ 
     padding: 0 20px; /* Optional: add side padding for mobile screens */
