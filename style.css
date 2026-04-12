@@ -36,12 +36,14 @@ h2 {
 }
 
 .container {
-    max-width: 500px;  /* Limit the width of the container */
-    position: absolute;
-    left: 0;
-    padding: 0 20px; /* Optional: add side padding for mobile screens */
-    background-color: #ffffff
     text-align: left;
+    max-width: 550px;  /* Limit the width of the container */
+    margin: 0 auto;
+    position: absolute;
+    padding: 15px; /* Optional: add side padding for mobile screens */
+    background-color: #edede9
+    border-radius: 10px
+  
 
 }
 
